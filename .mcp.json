@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "outside-chair-task": {
+      "type": "http",
+      "url": "https://app.outsidechair.com/mcp/task"
+    }
+  }
+}

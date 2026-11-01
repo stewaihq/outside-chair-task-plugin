@@ -1,0 +1,12 @@
+{
+  "name": "outside-chair-task",
+  "description": "Know who promised what, what counts as done and which evidence supports the result—for one person or two people working through their own agents.",
+  "version": "0.1.10",
+  "author": {
+    "name": "StewAI AG",
+    "email": "support@stewai.com",
+    "url": "https://outsidechair.com"
+  },
+  "homepage": "https://outsidechair.com/task",
+  "keywords": ["commitments", "executive", "assurance", "evidence", "mcp"]
+}
